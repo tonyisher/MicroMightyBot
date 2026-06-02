@@ -1,4 +1,5 @@
 # MicroMightyBot is down indefinitely, I have no plans to revive this project at the moment
+## sorry for the low quality code, but keep in mind that no AI is involved (yes, I did read the documentation)
 
 MicroMightyBot is a lightweight Discord bot packed with small, kinda-useless features designed to make your server more entertaining and productive.
 
