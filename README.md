@@ -85,5 +85,5 @@ Feel free to submit issues (in [Issues](https://github.com/Tony14261/MicroMighty
 This project is licensed under the [CC-BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## 📞 Contact
-Discord server: [Invite link](https://discord.gg/bJ8PaFREj2) \
+Discord server: server deleted
 If you encounter any issues or want to suggest a feature, feel free to report or contact me.
